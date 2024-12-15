@@ -1,3 +1,4 @@
+//PROGRAM TO SLICE A WORD AND FORM A SUBSTRING
 #include<stdio.h>
 int main(){int a,b;
 char new[20];
