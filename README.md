@@ -1,1 +1,2 @@
-Here I'm posting the solutions of some questions of 'c' programming which I've practiced.
+Some simple problems of 'C' which I've solved
+
